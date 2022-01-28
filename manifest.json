@@ -1,7 +1,8 @@
 {
   "name": "my-new-pwa",
   "short_name": "my-new-pwa",
-  "start_url": "https://kingstonkrunal.github.io/INFO-6128-Share-Target-Lab.github.io/",
+  "start_url": "https://kingstonkrunal.github.io/INFO-6128-Share-Target-Lab/",
+  "scope": "https://kingstonkrunal.github.io/INFO-6128-Share-Target-Lab/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#fff",
@@ -34,7 +35,7 @@
     }
   ],
   "share_target": {
-    "action": "https://kingstonkrunal.github.io/INFO-6128-Share-Target-Lab.github.io/",
+    "action": "https://kingstonkrunal.github.io/INFO-6128-Share-Target-Lab/",
     "enctype": "application/x-www-form-urlencoded",
     "method": "GET",
     "params": {
